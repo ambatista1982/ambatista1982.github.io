@@ -1,0 +1,27 @@
+Alexandre M. Batista
+Student Number 300344513
+
+#Project Company
+Company about services to newcomers in Canada.
+The Company is not real. Just an idea of Business
+
+#Imagens
+All images will create by myself.
+The picture of the airplane I took on my first day in Vancouver (Sep 07th 2021).
+The image was cut and used the website Canva to apply some shadow.
+The logo was created by myself on Canva.com website.
+Also, the icons were created using this website.
+
+#Websites to reference
+https://www.canva.com/
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Date/parse
+https://pt.stackoverflow.com/questions/20589/c%C3%A9lula-da-tabela-com-tamanho-fixo
+https://fonts.google.com/
+https://www.w3schools.com/charsets/ref_emoji.asp
+
+#Video presenting the site
+https://youtu.be/sSKbSBc8FiQ
+
+
+#github Website
+https://ambatista1982.github.io/
